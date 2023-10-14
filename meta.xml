@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<meta
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <project
+        id="5V57qcQVDP0"
+        courseid="test_course_id"
+        thumburl=""
+        title="TEST GOOGLE WEB"
+        datepublished="2022-07-08T13:53:14"
+        version="1.0.0.0"
+        flashdata=""
+        html5data=""
+        mobiledata=""
+        enabledownload="false"
+        duration=""
+        totalaudio=""
+        totalvideo=""><description/>
+        <keywords>A</keywords><slidemeta
+            moniker="slide"
+            monikerplural="slides"
+            viewslides="18"
+            slidecountdescription="18 slides"/><author
+            name="Teste"
+            email=""
+            website=""/><application
+            name="Articulate Storyline"
+            version="3.8.20838.0"
+            xmlversion="4.0"/></project>
+</meta>
